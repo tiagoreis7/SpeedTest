@@ -1,5 +1,6 @@
-import speedtest
 import streamlit as st
+import speedtest
+
 
 def main():
     st.header("SpeedTest", divider=True)
